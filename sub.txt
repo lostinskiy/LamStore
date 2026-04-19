@@ -1,3 +1,5 @@
+#profile-title: LamStore👑
+
 vless://ed932654-c32d-433e-81c7-3c45306ad95f@193.233.133.91:10000?type=ws&encryption=none&path=%2Ffr&security=none#🇫🇷 LamStore France FAST
 
 vless://4cb19f8c-3f05-4244-82f5-08b80a111cea@153.80.242.24:10001?type=ws&encryption=none&path=%2Fde&security=none#🇩🇪 LamStore Germany FAST
